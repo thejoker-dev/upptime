@@ -1,6 +1,6 @@
 # Change these first
 owner: thejoker-dev # Your GitHub organization or username, where this repository lives
-repo: servers-status # The name of this repository
+repo: upptime # The name of this repository
 
 sites:
   - name: Networkerd.cl
@@ -24,17 +24,15 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.networkerd.cl
-  # baseUrl: /servers-status
+  # cname: status.networkerd.cl
+  baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Server Status
   introTitle: "**Server Status** is a uptime monitor and status page."
   introMessage: This information page which uses **real-time** data from Networker Technology Servers (Actions, Issues, and Pages). [**More information**](https://networkerd.cl)
   navbar:
-    - title: Status
+    - title: Server Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

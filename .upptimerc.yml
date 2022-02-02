@@ -26,7 +26,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.networkerd.cl
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://networkerd.cl//images/icons/icon-192x192.png
   name: Server Status
   introTitle: "**Server Status** is a uptime monitor and status page."
   introMessage: This information page which uses **real-time** data from Networker Technology Servers (Actions, Issues, and Pages). [**More information**](https://networkerd.cl)

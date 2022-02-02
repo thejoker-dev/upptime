@@ -30,7 +30,7 @@ status-website:
   logoUrl: https://networkerd.cl//images/icons/icon-192x192.png
   name: Server Status
   introTitle: "**Server Status** is a uptime monitor and status page."
-  introMessage: This information page which uses **real-time** data from Networker Technology Servers (Actions, Issues, and Pages). [**More information**](https://networkerd.cl)
+  introMessage: This is an information page which uses **real-time** data from Networker Technology Servers (Actions, Issues, and Pages). [**More information**](https://networkerd.cl)
   navbar:
     - title: Information
       href: /

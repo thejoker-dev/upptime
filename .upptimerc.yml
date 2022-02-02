@@ -31,7 +31,7 @@ status-website:
   introTitle: "**Server Status** is a uptime monitor and status page."
   introMessage: This information page which uses **real-time** data from Networker Technology Servers (Actions, Issues, and Pages). [**More information**](https://networkerd.cl)
   navbar:
-    - title: Server Status
+    - title: Information
       href: /
 
 # Upptime also supports notifications, assigning issues, and more

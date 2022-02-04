@@ -40,19 +40,19 @@
     "url": "https://www.pollosro.cl",
     "icon": "https://favicons.githubusercontent.com/www.pollosro.cl",
     "slug": "pollosro-cl",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 270,
-    "timeDay": 316,
-    "timeWeek": 270,
-    "timeMonth": 270,
-    "timeYear": 270,
+    "status": "up",
+    "uptime": "99.84%",
+    "uptimeDay": "99.61%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 275,
+    "timeDay": 309,
+    "timeWeek": 275,
+    "timeMonth": 275,
+    "timeYear": 275,
     "dailyMinutesDown": {
-      "2022-02-04": 0
+      "2022-02-04": 6
     }
   },
   {

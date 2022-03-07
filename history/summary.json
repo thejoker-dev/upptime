@@ -22,9 +22,9 @@
     "url": "https://www.savethedate.cl",
     "icon": "https://favicons.githubusercontent.com/www.savethedate.cl",
     "slug": "savethedate-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
@@ -34,6 +34,7 @@
     "timeMonth": 341,
     "timeYear": 346,
     "dailyMinutesDown": {
+      "2022-03-07": 0,
       "2022-02-07": 48
     }
   },

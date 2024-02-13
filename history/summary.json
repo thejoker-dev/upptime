@@ -16,7 +16,7 @@
     "timeMonth": 310,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-02-13": 1424,
+      "2024-02-13": 1431,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -519,13 +519,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "88.94%",
-    "uptimeDay": "1.50%",
-    "uptimeWeek": "1.89%",
+    "uptimeDay": "1.97%",
+    "uptimeWeek": "1.95%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.51%",
-    "time": 925,
+    "uptimeYear": "77.52%",
+    "time": 927,
     "timeDay": 182,
     "timeWeek": 201,
     "timeMonth": 211,
@@ -613,7 +613,7 @@
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
-      "2023-11-23": 1158
+      "2023-11-23": 1112
     }
   },
   {
@@ -621,13 +621,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
+    "status": "down",
     "uptime": "88.94%",
-    "uptimeDay": "1.50%",
-    "uptimeWeek": "1.89%",
+    "uptimeDay": "1.97%",
+    "uptimeWeek": "1.95%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.51%",
-    "time": 579,
+    "uptimeYear": "77.52%",
+    "time": 580,
     "timeDay": 52,
     "timeWeek": 47,
     "timeMonth": 48,
@@ -715,7 +715,7 @@
       "2023-11-26": 1440,
       "2023-11-25": 1440,
       "2023-11-24": 1440,
-      "2023-11-23": 1158
+      "2023-11-23": 1112
     }
   },
   {
@@ -735,7 +735,7 @@
     "timeMonth": 0,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-02-13": 1424,
+      "2024-02-13": 1431,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
@@ -1119,7 +1119,7 @@
     "timeMonth": 0,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-02-13": 1424,
+      "2024-02-13": 1431,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,

@@ -16,7 +16,7 @@
     "timeMonth": 310,
     "timeYear": 296,
     "dailyMinutesDown": {
-      "2024-02-14": 1021,
+      "2024-02-14": 1034,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -518,13 +518,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
-    "uptime": "90.49%",
-    "uptimeDay": "2.89%",
-    "uptimeWeek": "1.90%",
+    "status": "down",
+    "uptime": "90.70%",
+    "uptimeDay": "3.83%",
+    "uptimeWeek": "2.03%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.66%",
-    "time": 930,
+    "uptimeYear": "81.09%",
+    "time": 885,
     "timeDay": 169,
     "timeWeek": 194,
     "timeMonth": 209,
@@ -600,8 +600,7 @@
       "2023-12-09": 1433,
       "2023-12-08": 1440,
       "2023-12-07": 1426,
-      "2023-12-06": 1426,
-      "2023-12-05": 876
+      "2023-12-06": 50
     }
   },
   {
@@ -609,13 +608,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
-    "uptime": "90.49%",
-    "uptimeDay": "2.89%",
-    "uptimeWeek": "1.90%",
+    "status": "down",
+    "uptime": "90.70%",
+    "uptimeDay": "3.83%",
+    "uptimeWeek": "2.03%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.66%",
-    "time": 583,
+    "uptimeYear": "81.09%",
+    "time": 500,
     "timeDay": 47,
     "timeWeek": 46,
     "timeMonth": 48,
@@ -691,8 +690,7 @@
       "2023-12-09": 1433,
       "2023-12-08": 1440,
       "2023-12-07": 1426,
-      "2023-12-06": 1426,
-      "2023-12-05": 876
+      "2023-12-06": 50
     }
   },
   {
@@ -712,7 +710,7 @@
     "timeMonth": 0,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-02-14": 1021,
+      "2024-02-14": 1034,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -1096,7 +1094,7 @@
     "timeMonth": 0,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2024-02-14": 1021,
+      "2024-02-14": 1035,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,

@@ -16,7 +16,7 @@
     "timeMonth": 250,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2024-02-22": 694,
+      "2024-02-22": 701,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -510,13 +510,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
-    "uptime": "91.81%",
-    "uptimeDay": "2.75%",
-    "uptimeWeek": "1.68%",
+    "status": "down",
+    "uptime": "91.90%",
+    "uptimeDay": "3.23%",
+    "uptimeWeek": "1.75%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.17%",
-    "time": 895,
+    "uptimeYear": "83.34%",
+    "time": 896,
     "timeDay": 216,
     "timeWeek": 176,
     "timeMonth": 203,
@@ -584,7 +584,7 @@
       "2023-12-25": 1432,
       "2023-12-24": 1412,
       "2023-12-23": 1413,
-      "2023-12-22": 990
+      "2023-12-22": 72
     }
   },
   {
@@ -592,13 +592,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
-    "uptime": "91.81%",
-    "uptimeDay": "2.74%",
-    "uptimeWeek": "1.68%",
+    "status": "down",
+    "uptime": "91.90%",
+    "uptimeDay": "3.23%",
+    "uptimeWeek": "1.75%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.17%",
-    "time": 519,
+    "uptimeYear": "83.34%",
+    "time": 520,
     "timeDay": 50,
     "timeWeek": 48,
     "timeMonth": 48,
@@ -666,7 +666,7 @@
       "2023-12-25": 1432,
       "2023-12-24": 1412,
       "2023-12-23": 1413,
-      "2023-12-22": 990
+      "2023-12-22": 72
     }
   },
   {
@@ -686,7 +686,7 @@
     "timeMonth": 0,
     "timeYear": 147,
     "dailyMinutesDown": {
-      "2024-02-22": 694,
+      "2024-02-22": 702,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,
@@ -1070,7 +1070,7 @@
     "timeMonth": 0,
     "timeYear": 240,
     "dailyMinutesDown": {
-      "2024-02-22": 694,
+      "2024-02-22": 702,
       "2024-02-21": 1440,
       "2024-02-20": 1440,
       "2024-02-19": 1440,

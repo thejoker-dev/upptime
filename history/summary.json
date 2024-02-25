@@ -9,14 +9,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.09%",
+    "uptimeYear": "3.08%",
     "time": 317,
     "timeDay": 0,
     "timeWeek": 190,
     "timeMonth": 250,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2024-02-25": 716,
+      "2024-02-25": 732,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -507,13 +507,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "92.04%",
-    "uptimeDay": "1.02%",
-    "uptimeWeek": "1.83%",
+    "uptimeDay": "2.13%",
+    "uptimeWeek": "1.99%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "83.58%",
-    "time": 905,
+    "time": 907,
     "timeDay": 178,
     "timeWeek": 196,
     "timeMonth": 204,
@@ -580,7 +580,7 @@
       "2023-12-29": 1425,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
-      "2023-12-26": 262
+      "2023-12-26": 241
     }
   },
   {
@@ -588,10 +588,10 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
+    "status": "down",
     "uptime": "92.04%",
-    "uptimeDay": "1.02%",
-    "uptimeWeek": "1.83%",
+    "uptimeDay": "2.13%",
+    "uptimeWeek": "1.99%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "83.58%",
     "time": 528,
@@ -661,7 +661,7 @@
       "2023-12-29": 1425,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
-      "2023-12-26": 262
+      "2023-12-26": 241
     }
   },
   {
@@ -681,7 +681,7 @@
     "timeMonth": 0,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-02-25": 716,
+      "2024-02-25": 732,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
@@ -1058,14 +1058,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "12.96%",
+    "uptimeYear": "12.95%",
     "time": 446,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2024-02-25": 716,
+      "2024-02-25": 732,
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,

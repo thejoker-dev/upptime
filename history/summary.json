@@ -16,7 +16,7 @@
     "timeMonth": 250,
     "timeYear": 297,
     "dailyMinutesDown": {
-      "2024-03-01": 1260,
+      "2024-03-01": 1274,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -503,13 +503,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
-    "uptime": "93.00%",
-    "uptimeDay": "1.55%",
-    "uptimeWeek": "1.93%",
-    "uptimeMonth": "6.49%",
-    "uptimeYear": "85.45%",
-    "time": 869,
+    "status": "down",
+    "uptime": "93.08%",
+    "uptimeDay": "2.53%",
+    "uptimeWeek": "2.07%",
+    "uptimeMonth": "6.52%",
+    "uptimeYear": "85.62%",
+    "time": 870,
     "timeDay": 179,
     "timeWeek": 194,
     "timeMonth": 200,
@@ -568,8 +568,7 @@
       "2024-01-11": 1433,
       "2024-01-10": 1440,
       "2024-01-09": 1394,
-      "2024-01-08": 1411,
-      "2024-01-07": 9
+      "2024-01-08": 522
     }
   },
   {
@@ -577,13 +576,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
-    "uptime": "93.00%",
-    "uptimeDay": "1.55%",
-    "uptimeWeek": "1.93%",
-    "uptimeMonth": "6.49%",
-    "uptimeYear": "85.45%",
-    "time": 538,
+    "status": "down",
+    "uptime": "93.08%",
+    "uptimeDay": "2.53%",
+    "uptimeWeek": "2.07%",
+    "uptimeMonth": "6.52%",
+    "uptimeYear": "85.62%",
+    "time": 539,
     "timeDay": 45,
     "timeWeek": 47,
     "timeMonth": 48,
@@ -642,8 +641,7 @@
       "2024-01-11": 1433,
       "2024-01-10": 1440,
       "2024-01-09": 1394,
-      "2024-01-08": 1411,
-      "2024-01-07": 9
+      "2024-01-08": 522
     }
   },
   {
@@ -663,7 +661,7 @@
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-03-01": 1260,
+      "2024-03-01": 1274,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -1047,7 +1045,7 @@
     "timeMonth": 0,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-03-01": 1260,
+      "2024-03-01": 1274,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,

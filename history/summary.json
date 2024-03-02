@@ -16,7 +16,7 @@
     "timeMonth": 250,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2024-03-02": 158,
+      "2024-03-02": 165,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
@@ -444,7 +444,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.90%",
     "uptimeMonth": "97.98%",
-    "uptimeYear": "89.35%",
+    "uptimeYear": "89.36%",
     "time": 551,
     "timeDay": 269,
     "timeWeek": 359,
@@ -502,13 +502,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
+    "status": "down",
     "uptime": "93.06%",
-    "uptimeDay": "2.54%",
-    "uptimeWeek": "2.07%",
-    "uptimeMonth": "6.52%",
-    "uptimeYear": "85.56%",
-    "time": 871,
+    "uptimeDay": "3.03%",
+    "uptimeWeek": "2.15%",
+    "uptimeMonth": "6.54%",
+    "uptimeYear": "85.57%",
+    "time": 872,
     "timeDay": 169,
     "timeWeek": 191,
     "timeMonth": 199,
@@ -568,7 +568,7 @@
       "2024-01-11": 1433,
       "2024-01-10": 1440,
       "2024-01-09": 1394,
-      "2024-01-08": 522
+      "2024-01-08": 494
     }
   },
   {
@@ -576,13 +576,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
+    "status": "down",
     "uptime": "93.06%",
-    "uptimeDay": "2.54%",
-    "uptimeWeek": "2.08%",
-    "uptimeMonth": "6.52%",
-    "uptimeYear": "85.56%",
-    "time": 540,
+    "uptimeDay": "3.04%",
+    "uptimeWeek": "2.15%",
+    "uptimeMonth": "6.54%",
+    "uptimeYear": "85.57%",
+    "time": 541,
     "timeDay": 45,
     "timeWeek": 47,
     "timeMonth": 48,
@@ -642,7 +642,7 @@
       "2024-01-11": 1433,
       "2024-01-10": 1440,
       "2024-01-09": 1394,
-      "2024-01-08": 522
+      "2024-01-08": 494
     }
   },
   {
@@ -662,7 +662,7 @@
     "timeMonth": 0,
     "timeYear": 145,
     "dailyMinutesDown": {
-      "2024-03-02": 158,
+      "2024-03-02": 165,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
@@ -1046,7 +1046,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-03-02": 158,
+      "2024-03-02": 165,
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,

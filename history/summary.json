@@ -16,7 +16,7 @@
     "timeMonth": 183,
     "timeYear": 322,
     "dailyMinutesDown": {
-      "2024-05-22": 35,
+      "2024-05-22": 102,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -437,12 +437,12 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
-    "uptime": "87.18%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "1.40%",
-    "uptimeYear": "70.49%",
+    "status": "down",
+    "uptime": "87.23%",
+    "uptimeDay": "4.63%",
+    "uptimeWeek": "0.74%",
+    "uptimeMonth": "1.55%",
+    "uptimeYear": "70.60%",
     "time": 846,
     "timeDay": 272,
     "timeWeek": 204,
@@ -558,7 +558,7 @@
       "2024-02-06": 1425,
       "2024-02-05": 1412,
       "2024-02-04": 1376,
-      "2024-02-03": 606
+      "2024-02-03": 24
     }
   },
   {
@@ -566,12 +566,12 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
-    "uptime": "87.18%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "1.40%",
-    "uptimeYear": "70.49%",
+    "status": "down",
+    "uptime": "87.23%",
+    "uptimeDay": "4.63%",
+    "uptimeWeek": "0.74%",
+    "uptimeMonth": "1.55%",
+    "uptimeYear": "70.60%",
     "time": 546,
     "timeDay": 53,
     "timeWeek": 52,
@@ -687,7 +687,7 @@
       "2024-02-06": 1425,
       "2024-02-05": 1411,
       "2024-02-04": 1376,
-      "2024-02-03": 605
+      "2024-02-03": 23
     }
   },
   {
@@ -707,7 +707,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-22": 36,
+      "2024-05-22": 102,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -1091,7 +1091,7 @@
     "timeMonth": 0,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-05-22": 36,
+      "2024-05-22": 102,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,

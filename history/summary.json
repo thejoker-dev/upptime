@@ -16,7 +16,7 @@
     "timeMonth": 235,
     "timeYear": 324,
     "dailyMinutesDown": {
-      "2024-05-31": 887,
+      "2024-05-31": 895,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
@@ -436,13 +436,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
-    "uptime": "86.26%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.07%",
+    "status": "down",
+    "uptime": "86.27%",
+    "uptimeDay": "0.50%",
+    "uptimeWeek": "0.14%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.03%",
-    "time": 847,
+    "uptimeYear": "68.06%",
+    "time": 845,
     "timeDay": 271,
     "timeWeek": 234,
     "timeMonth": 219,
@@ -565,7 +565,7 @@
       "2024-02-07": 1400,
       "2024-02-06": 1425,
       "2024-02-05": 1412,
-      "2024-02-04": 1202
+      "2024-02-04": 1057
     }
   },
   {
@@ -573,13 +573,13 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
-    "uptime": "86.26%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.07%",
+    "status": "down",
+    "uptime": "86.27%",
+    "uptimeDay": "0.50%",
+    "uptimeWeek": "0.14%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "68.03%",
-    "time": 556,
+    "uptimeYear": "68.06%",
+    "time": 557,
     "timeDay": 51,
     "timeWeek": 53,
     "timeMonth": 52,
@@ -702,7 +702,7 @@
       "2024-02-07": 1400,
       "2024-02-06": 1425,
       "2024-02-05": 1411,
-      "2024-02-04": 1202
+      "2024-02-04": 1057
     }
   },
   {
@@ -722,7 +722,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-31": 888,
+      "2024-05-31": 895,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,
@@ -1106,7 +1106,7 @@
     "timeMonth": 0,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2024-05-31": 888,
+      "2024-05-31": 895,
       "2024-05-30": 1440,
       "2024-05-29": 1440,
       "2024-05-28": 1440,

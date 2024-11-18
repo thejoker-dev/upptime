@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/networkerd.cl.ico",
     "slug": "networkerd-cl",
     "status": "down",
-    "uptime": "39.03%",
+    "uptime": "39.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 313,
-    "timeDay": 216,
-    "timeWeek": 209,
-    "timeMonth": 209,
-    "timeYear": 409,
+    "timeDay": 229,
+    "timeWeek": 213,
+    "timeMonth": 210,
+    "timeYear": 408,
     "dailyMinutesDown": {
-      "2024-11-17": 39,
+      "2024-11-18": 38,
+      "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
@@ -379,8 +380,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 1440,
-      "2023-11-19": 1440
+      "2023-11-20": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 488,
-    "timeDay": 321,
-    "timeWeek": 351,
-    "timeMonth": 317,
-    "timeYear": 526,
+    "timeDay": 375,
+    "timeWeek": 317,
+    "timeMonth": 320,
+    "timeYear": 527,
     "dailyMinutesDown": {
       "2023-12-29": 32
     }
@@ -415,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
     "time": 680,
-    "timeDay": 383,
-    "timeWeek": 748,
-    "timeMonth": 597,
+    "timeDay": 283,
+    "timeWeek": 681,
+    "timeMonth": 594,
     "timeYear": 740,
     "dailyMinutesDown": {
       "2024-10-02": 621,
@@ -440,16 +440,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
     "status": "up",
-    "uptime": "88.75%",
+    "uptime": "88.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.55%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "68.60%",
     "time": 1509,
-    "timeDay": 2144,
-    "timeWeek": 1938,
-    "timeMonth": 1673,
-    "timeYear": 1240,
+    "timeDay": 1272,
+    "timeWeek": 1866,
+    "timeMonth": 1661,
+    "timeYear": 1242,
     "dailyMinutesDown": {
       "2024-11-11": 21,
       "2024-11-06": 71,
@@ -590,16 +590,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
     "status": "up",
-    "uptime": "88.69%",
+    "uptime": "88.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.56%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "68.43%",
-    "time": 1008,
-    "timeDay": 762,
-    "timeWeek": 773,
-    "timeMonth": 752,
-    "timeYear": 709,
+    "time": 1004,
+    "timeDay": 747,
+    "timeWeek": 765,
+    "timeMonth": 753,
+    "timeYear": 711,
     "dailyMinutesDown": {
       "2024-11-11": 20,
       "2024-11-06": 70,
@@ -739,7 +739,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.technasis.cl.ico",
     "slug": "technasis-cl",
     "status": "down",
-    "uptime": "15.88%",
+    "uptime": "15.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -750,7 +750,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-17": 39,
+      "2024-11-18": 38,
+      "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
@@ -1113,8 +1114,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 1440,
-      "2023-11-19": 1440
+      "2023-11-20": 1440
     }
   },
   {
@@ -1123,7 +1123,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luminbarber.networkerd.cl.ico",
     "slug": "luminbarber-cl",
     "status": "down",
-    "uptime": "41.91%",
+    "uptime": "41.87%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1134,7 +1134,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-17": 39,
+      "2024-11-18": 38,
+      "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
       "2024-11-14": 1440,
@@ -1497,8 +1498,7 @@
       "2023-11-23": 1440,
       "2023-11-22": 1440,
       "2023-11-21": 1440,
-      "2023-11-20": 1440,
-      "2023-11-19": 1440
+      "2023-11-20": 1440
     }
   }
 ]

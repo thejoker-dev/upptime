@@ -1,7 +1,7 @@
 url: https://maoristore.cl
-status: up
-code: 200
-responseTime: 628
-lastUpdated: 2024-11-20T23:16:32.666Z
+status: down
+code: 500
+responseTime: 1725
+lastUpdated: 2024-11-21T14:50:18.687Z
 startTime: 2022-02-02T04:11:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>

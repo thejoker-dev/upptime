@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/networkerd.cl.ico",
     "slug": "networkerd-cl",
     "status": "down",
-    "uptime": "38.63%",
+    "uptime": "38.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 313,
-    "timeDay": 192,
-    "timeWeek": 180,
-    "timeMonth": 199,
-    "timeYear": 372,
+    "time": 314,
+    "timeDay": 343,
+    "timeWeek": 206,
+    "timeMonth": 205,
+    "timeYear": 367,
     "dailyMinutesDown": {
-      "2024-11-27": 854,
+      "2024-11-28": 37,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -379,8 +380,7 @@
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-11-30": 1440
     }
   },
   {
@@ -389,15 +389,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savethedate.cl.ico",
     "slug": "savethedate-cl",
     "status": "up",
-    "uptime": "93.56%",
+    "uptime": "93.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 488,
-    "timeDay": 321,
-    "timeWeek": 311,
-    "timeMonth": 310,
+    "timeDay": 330,
+    "timeWeek": 325,
+    "timeMonth": 312,
     "timeYear": 527,
     "dailyMinutesDown": {
       "2023-12-29": 32
@@ -414,10 +414,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.30%",
-    "time": 679,
-    "timeDay": 367,
-    "timeWeek": 318,
-    "timeMonth": 493,
+    "time": 680,
+    "timeDay": 381,
+    "timeWeek": 337,
+    "timeMonth": 494,
     "timeYear": 729,
     "dailyMinutesDown": {
       "2024-10-02": 621,
@@ -440,16 +440,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
     "status": "up",
-    "uptime": "88.88%",
+    "uptime": "88.89%",
     "uptimeDay": "98.84%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "68.65%",
-    "time": 1508,
-    "timeDay": 1290,
-    "timeWeek": 1260,
-    "timeMonth": 1500,
-    "timeYear": 1257,
+    "time": 1505,
+    "timeDay": 1260,
+    "timeWeek": 1274,
+    "timeMonth": 1477,
+    "timeYear": 1256,
     "dailyMinutesDown": {
       "2024-11-27": 17,
       "2024-11-11": 21,
@@ -596,9 +596,9 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "68.46%",
-    "time": 961,
-    "timeDay": 754,
-    "timeWeek": 801,
+    "time": 959,
+    "timeDay": 748,
+    "timeWeek": 808,
     "timeMonth": 755,
     "timeYear": 723,
     "dailyMinutesDown": {
@@ -741,7 +741,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.technasis.cl.ico",
     "slug": "technasis-cl",
     "status": "down",
-    "uptime": "15.72%",
+    "uptime": "15.71%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -752,7 +752,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 855,
+      "2024-11-28": 37,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -1115,8 +1116,7 @@
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-11-30": 1440
     }
   },
   {
@@ -1125,7 +1125,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luminbarber.networkerd.cl.ico",
     "slug": "luminbarber-cl",
     "status": "down",
-    "uptime": "41.48%",
+    "uptime": "41.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1136,7 +1136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-27": 855,
+      "2024-11-28": 37,
+      "2024-11-27": 1440,
       "2024-11-26": 1440,
       "2024-11-25": 1440,
       "2024-11-24": 1440,
@@ -1499,8 +1500,7 @@
       "2023-12-03": 1440,
       "2023-12-02": 1440,
       "2023-12-01": 1440,
-      "2023-11-30": 1440,
-      "2023-11-29": 1440
+      "2023-11-30": 1440
     }
   }
 ]

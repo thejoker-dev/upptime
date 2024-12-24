@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/networkerd.cl.ico",
     "slug": "networkerd-cl",
     "status": "down",
-    "uptime": "37.70%",
+    "uptime": "37.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 311,
-    "timeDay": 247,
-    "timeWeek": 153,
-    "timeMonth": 168,
+    "timeDay": 224,
+    "timeWeek": 170,
+    "timeMonth": 170,
     "timeYear": 230,
     "dailyMinutesDown": {
-      "2024-12-23": 36,
+      "2024-12-24": 35,
+      "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -379,8 +380,7 @@
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-26": 1440
     }
   },
   {
@@ -395,9 +395,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 487,
-    "timeDay": 379,
-    "timeWeek": 298,
-    "timeMonth": 301,
+    "timeDay": 207,
+    "timeWeek": 268,
+    "timeMonth": 298,
     "timeYear": 490,
     "dailyMinutesDown": {
       "2023-12-29": 32
@@ -415,9 +415,9 @@
     "uptimeMonth": "97.80%",
     "uptimeYear": "99.11%",
     "time": 668,
-    "timeDay": 288,
-    "timeWeek": 335,
-    "timeMonth": 435,
+    "timeDay": 215,
+    "timeWeek": 321,
+    "timeMonth": 432,
     "timeYear": 733,
     "dailyMinutesDown": {
       "2024-12-05": 17,
@@ -442,16 +442,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
     "status": "up",
-    "uptime": "89.29%",
+    "uptime": "89.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "69.05%",
-    "time": 1416,
-    "timeDay": 960,
-    "timeWeek": 1426,
-    "timeMonth": 1456,
-    "timeYear": 1327,
+    "time": 1413,
+    "timeDay": 808,
+    "timeWeek": 1359,
+    "timeMonth": 1450,
+    "timeYear": 1331,
     "dailyMinutesDown": {
       "2024-12-20": 17,
       "2024-12-08": 21,
@@ -595,16 +595,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
     "status": "up",
-    "uptime": "89.15%",
+    "uptime": "89.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "68.65%",
-    "time": 862,
-    "timeDay": 643,
-    "timeWeek": 784,
-    "timeMonth": 935,
-    "timeYear": 774,
+    "time": 859,
+    "timeDay": 510,
+    "timeWeek": 740,
+    "timeMonth": 942,
+    "timeYear": 777,
     "dailyMinutesDown": {
       "2024-12-20": 17,
       "2024-12-08": 20,
@@ -746,7 +746,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.technasis.cl.ico",
     "slug": "technasis-cl",
     "status": "down",
-    "uptime": "15.34%",
+    "uptime": "15.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -757,7 +757,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-23": 36,
+      "2024-12-24": 35,
+      "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -1120,8 +1121,7 @@
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-26": 1440
     }
   },
   {
@@ -1130,7 +1130,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luminbarber.networkerd.cl.ico",
     "slug": "luminbarber-cl",
     "status": "down",
-    "uptime": "40.48%",
+    "uptime": "40.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1141,7 +1141,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-23": 36,
+      "2024-12-24": 35,
+      "2024-12-23": 1440,
       "2024-12-22": 1440,
       "2024-12-21": 1440,
       "2024-12-20": 1440,
@@ -1504,8 +1505,7 @@
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
-      "2023-12-26": 1440,
-      "2023-12-25": 1440
+      "2023-12-26": 1440
     }
   }
 ]

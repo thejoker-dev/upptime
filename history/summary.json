@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/networkerd.cl.ico",
     "slug": "networkerd-cl",
     "status": "down",
-    "uptime": "37.06%",
+    "uptime": "37.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 317,
-    "timeDay": 112,
-    "timeWeek": 322,
-    "timeMonth": 204,
-    "timeYear": 226,
+    "timeDay": 84,
+    "timeWeek": 319,
+    "timeMonth": 200,
+    "timeYear": 225,
     "dailyMinutesDown": {
-      "2025-01-10": 462,
+      "2025-01-11": 35,
+      "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -379,8 +380,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1440,
-      "2024-01-12": 1440
+      "2024-01-13": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 234,
-    "timeWeek": 331,
+    "timeDay": 340,
+    "timeWeek": 330,
     "timeMonth": 313,
     "timeYear": 396,
     "dailyMinutesDown": {}
@@ -413,10 +413,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
     "time": 657,
-    "timeDay": 321,
-    "timeWeek": 330,
-    "timeMonth": 425,
-    "timeYear": 664,
+    "timeDay": 351,
+    "timeWeek": 328,
+    "timeMonth": 423,
+    "timeYear": 665,
     "dailyMinutesDown": {
       "2024-12-05": 17,
       "2024-12-04": 717,
@@ -439,16 +439,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
     "status": "up",
-    "uptime": "89.60%",
+    "uptime": "89.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.85%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "69.42%",
-    "time": 1279,
-    "timeDay": 1082,
-    "timeWeek": 1377,
-    "timeMonth": 1415,
-    "timeYear": 1403,
+    "time": 1280,
+    "timeDay": 1621,
+    "timeWeek": 1367,
+    "timeMonth": 1409,
+    "timeYear": 1404,
     "dailyMinutesDown": {
       "2025-01-09": 16,
       "2024-12-24": 48,
@@ -592,18 +592,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
     "status": "up",
-    "uptime": "89.47%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.80%",
-    "uptimeYear": "69.05%",
-    "time": 745,
-    "timeDay": 638,
-    "timeWeek": 727,
-    "timeMonth": 730,
-    "timeYear": 815,
+    "uptime": "89.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "68.94%",
+    "time": 744,
+    "timeDay": 625,
+    "timeWeek": 726,
+    "timeMonth": 728,
+    "timeYear": 814,
     "dailyMinutesDown": {
-      "2025-01-10": 7,
       "2025-01-09": 15,
       "2024-12-24": 48,
       "2024-12-20": 17,
@@ -736,7 +735,7 @@
       "2024-02-14": 1392,
       "2024-02-13": 1412,
       "2024-02-12": 1433,
-      "2024-02-11": 338
+      "2024-02-11": 892
     }
   },
   {
@@ -745,7 +744,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.technasis.cl.ico",
     "slug": "technasis-cl",
     "status": "down",
-    "uptime": "15.08%",
+    "uptime": "15.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -756,7 +755,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-10": 462,
+      "2025-01-11": 35,
+      "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -1119,8 +1119,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1440,
-      "2024-01-12": 1440
+      "2024-01-13": 1440
     }
   },
   {
@@ -1129,7 +1128,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luminbarber.networkerd.cl.ico",
     "slug": "luminbarber-cl",
     "status": "down",
-    "uptime": "39.79%",
+    "uptime": "39.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1140,7 +1139,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-10": 462,
+      "2025-01-11": 35,
+      "2025-01-10": 1440,
       "2025-01-09": 1440,
       "2025-01-08": 1440,
       "2025-01-07": 1440,
@@ -1503,8 +1503,7 @@
       "2024-01-16": 1440,
       "2024-01-15": 1440,
       "2024-01-14": 1440,
-      "2024-01-13": 1440,
-      "2024-01-12": 1440
+      "2024-01-13": 1440
     }
   }
 ]

@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/networkerd.cl.ico",
     "slug": "networkerd-cl",
     "status": "down",
-    "uptime": "36.63%",
+    "uptime": "36.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,7 @@
     "timeMonth": 203,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-01-23": 34,
+      "2025-01-23": 472,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -438,18 +438,19 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
-    "uptime": "89.78%",
-    "uptimeDay": "98.88%",
-    "uptimeWeek": "99.65%",
+    "status": "down",
+    "uptime": "89.80%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.64%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "69.58%",
+    "uptimeYear": "69.64%",
     "time": 1296,
     "timeDay": 1322,
     "timeWeek": 1266,
     "timeMonth": 1378,
     "timeYear": 1449,
     "dailyMinutesDown": {
+      "2025-01-23": 1,
       "2025-01-22": 16,
       "2025-01-16": 19,
       "2025-01-09": 16,
@@ -585,7 +586,7 @@
       "2024-02-16": 1425,
       "2024-02-15": 1440,
       "2024-02-14": 1392,
-      "2024-02-13": 298
+      "2024-02-13": 9
     }
   },
   {
@@ -593,18 +594,19 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
-    "uptime": "89.68%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.66%",
+    "status": "down",
+    "uptime": "89.72%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "99.65%",
     "uptimeMonth": "99.78%",
-    "uptimeYear": "69.30%",
+    "uptimeYear": "69.42%",
     "time": 751,
     "timeDay": 629,
     "timeWeek": 643,
     "timeMonth": 667,
     "timeYear": 836,
     "dailyMinutesDown": {
+      "2025-01-23": 0,
       "2025-01-22": 16,
       "2025-01-16": 19,
       "2025-01-09": 15,
@@ -737,8 +739,7 @@
       "2024-02-16": 1425,
       "2024-02-15": 1440,
       "2024-02-14": 1392,
-      "2024-02-13": 1412,
-      "2024-02-12": 426
+      "2024-02-13": 1193
     }
   },
   {
@@ -758,7 +759,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-23": 34,
+      "2025-01-23": 473,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,
@@ -1131,7 +1132,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luminbarber.networkerd.cl.ico",
     "slug": "luminbarber-cl",
     "status": "down",
-    "uptime": "39.32%",
+    "uptime": "39.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1142,7 +1143,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-01-23": 34,
+      "2025-01-23": 473,
       "2025-01-22": 1440,
       "2025-01-21": 1440,
       "2025-01-20": 1440,

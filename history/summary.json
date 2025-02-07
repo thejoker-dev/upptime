@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/networkerd.cl.ico",
     "slug": "networkerd-cl",
     "status": "down",
-    "uptime": "36.15%",
+    "uptime": "36.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 221,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-02-06": 566,
+      "2025-02-07": 35,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -379,8 +380,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   },
   {
@@ -395,10 +395,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 485,
-    "timeDay": 199,
-    "timeWeek": 280,
-    "timeMonth": 310,
-    "timeYear": 355,
+    "timeDay": 185,
+    "timeWeek": 273,
+    "timeMonth": 304,
+    "timeYear": 354,
     "dailyMinutesDown": {}
   },
   {
@@ -412,10 +412,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.12%",
-    "time": 650,
-    "timeDay": 293,
+    "time": 649,
+    "timeDay": 213,
     "timeWeek": 317,
-    "timeMonth": 334,
+    "timeMonth": 331,
     "timeYear": 627,
     "dailyMinutesDown": {
       "2024-12-05": 17,
@@ -444,11 +444,11 @@
     "uptimeWeek": "98.58%",
     "uptimeMonth": "99.42%",
     "uptimeYear": "69.79%",
-    "time": 1365,
-    "timeDay": 1709,
-    "timeWeek": 2238,
-    "timeMonth": 1608,
-    "timeYear": 1516,
+    "time": 1367,
+    "timeDay": 1207,
+    "timeWeek": 2133,
+    "timeMonth": 1606,
+    "timeYear": 1521,
     "dailyMinutesDown": {
       "2025-02-06": 18,
       "2025-02-02": 43,
@@ -605,10 +605,10 @@
     "uptimeMonth": "99.43%",
     "uptimeYear": "69.69%",
     "time": 790,
-    "timeDay": 813,
-    "timeWeek": 1327,
-    "timeMonth": 818,
-    "timeYear": 871,
+    "timeDay": 604,
+    "timeWeek": 1286,
+    "timeMonth": 817,
+    "timeYear": 874,
     "dailyMinutesDown": {
       "2025-02-06": 17,
       "2025-02-02": 43,
@@ -756,7 +756,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.technasis.cl.ico",
     "slug": "technasis-cl",
     "status": "down",
-    "uptime": "14.71%",
+    "uptime": "14.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -767,7 +767,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 567,
+      "2025-02-07": 35,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1130,8 +1131,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   },
   {
@@ -1140,7 +1140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luminbarber.networkerd.cl.ico",
     "slug": "luminbarber-cl",
     "status": "down",
-    "uptime": "38.81%",
+    "uptime": "38.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1151,7 +1151,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-06": 567,
+      "2025-02-07": 35,
+      "2025-02-06": 1440,
       "2025-02-05": 1440,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
@@ -1514,8 +1515,7 @@
       "2024-02-12": 1440,
       "2024-02-11": 1440,
       "2024-02-10": 1440,
-      "2024-02-09": 1440,
-      "2024-02-08": 1440
+      "2024-02-09": 1440
     }
   }
 ]

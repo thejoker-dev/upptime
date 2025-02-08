@@ -16,7 +16,7 @@
     "timeMonth": 227,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-02-08": 1039,
+      "2025-02-08": 1192,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -437,19 +437,19 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
-    "status": "up",
-    "uptime": "90.18%",
-    "uptimeDay": "98.90%",
-    "uptimeWeek": "98.93%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "70.35%",
+    "status": "down",
+    "uptime": "90.22%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "70.46%",
     "time": 1370,
     "timeDay": 931,
     "timeWeek": 1924,
     "timeMonth": 1595,
     "timeYear": 1531,
     "dailyMinutesDown": {
-      "2025-02-08": 16,
+      "2025-02-08": 17,
       "2025-02-07": 26,
       "2025-02-06": 18,
       "2025-02-02": 43,
@@ -588,8 +588,7 @@
       "2024-02-20": 1422,
       "2024-02-19": 1415,
       "2024-02-18": 1440,
-      "2024-02-17": 1391,
-      "2024-02-16": 265
+      "2024-02-17": 1088
     }
   },
   {
@@ -597,12 +596,12 @@
     "url": "https://maoristore.cl",
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
-    "status": "up",
+    "status": "down",
     "uptime": "90.00%",
-    "uptimeDay": "98.93%",
+    "uptimeDay": "98.92%",
     "uptimeWeek": "98.95%",
     "uptimeMonth": "99.34%",
-    "uptimeYear": "69.79%",
+    "uptimeYear": "69.80%",
     "time": 793,
     "timeDay": 624,
     "timeWeek": 1115,
@@ -748,7 +747,7 @@
       "2024-02-17": 1391,
       "2024-02-16": 1425,
       "2024-02-15": 1440,
-      "2024-02-14": 399
+      "2024-02-14": 373
     }
   },
   {
@@ -768,7 +767,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 1039,
+      "2025-02-08": 1192,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -1152,7 +1151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 1039,
+      "2025-02-08": 1192,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,

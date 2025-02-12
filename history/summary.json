@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/networkerd.cl.ico",
     "slug": "networkerd-cl",
     "status": "down",
-    "uptime": "36.00%",
+    "uptime": "35.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -13,10 +13,11 @@
     "time": 316,
     "timeDay": 0,
     "timeWeek": 0,
-    "timeMonth": 155,
+    "timeMonth": 162,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-02-11": 35,
+      "2025-02-12": 34,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -379,8 +380,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -389,14 +389,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.savethedate.cl.ico",
     "slug": "savethedate-cl",
     "status": "up",
-    "uptime": "94.00%",
+    "uptime": "94.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 481,
-    "timeDay": 268,
-    "timeWeek": 266,
+    "timeDay": 346,
+    "timeWeek": 275,
     "timeMonth": 305,
     "timeYear": 348,
     "dailyMinutesDown": {}
@@ -407,15 +407,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pollosro.cl.ico",
     "slug": "pollosro-cl",
     "status": "up",
-    "uptime": "94.18%",
+    "uptime": "94.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
-    "time": 649,
-    "timeDay": 309,
-    "timeWeek": 317,
-    "timeMonth": 330,
+    "time": 646,
+    "timeDay": 403,
+    "timeWeek": 321,
+    "timeMonth": 333,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2024-12-05": 17,
@@ -428,8 +428,7 @@
       "2024-04-24": 465,
       "2024-03-26": 668,
       "2024-03-02": 63,
-      "2024-02-29": 111,
-      "2024-02-13": 191
+      "2024-02-29": 111
     }
   },
   {
@@ -443,11 +442,11 @@
     "uptimeWeek": "99.41%",
     "uptimeMonth": "99.36%",
     "uptimeYear": "70.35%",
-    "time": 1376,
-    "timeDay": 1021,
-    "timeWeek": 1553,
-    "timeMonth": 1593,
-    "timeYear": 1549,
+    "time": 1377,
+    "timeDay": 1632,
+    "timeWeek": 1460,
+    "timeMonth": 1605,
+    "timeYear": 1559,
     "dailyMinutesDown": {
       "2025-02-08": 16,
       "2025-02-07": 26,
@@ -598,16 +597,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
     "status": "up",
-    "uptime": "90.02%",
+    "uptime": "90.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.37%",
     "uptimeYear": "69.79%",
-    "time": 795,
-    "timeDay": 820,
-    "timeWeek": 865,
+    "time": 796,
+    "timeDay": 623,
+    "timeWeek": 718,
     "timeMonth": 815,
-    "timeYear": 888,
+    "timeYear": 892,
     "dailyMinutesDown": {
       "2025-02-08": 15,
       "2025-02-07": 25,
@@ -757,7 +756,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.technasis.cl.ico",
     "slug": "technasis-cl",
     "status": "down",
-    "uptime": "14.65%",
+    "uptime": "14.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -768,7 +767,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-11": 35,
+      "2025-02-12": 35,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -1131,8 +1131,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   },
   {
@@ -1141,7 +1140,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luminbarber.networkerd.cl.ico",
     "slug": "luminbarber-cl",
     "status": "down",
-    "uptime": "38.65%",
+    "uptime": "38.61%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1152,7 +1151,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-11": 35,
+      "2025-02-12": 35,
+      "2025-02-11": 1440,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -1515,8 +1515,7 @@
       "2024-02-17": 1440,
       "2024-02-16": 1440,
       "2024-02-15": 1440,
-      "2024-02-14": 1440,
-      "2024-02-13": 1440
+      "2024-02-14": 1440
     }
   }
 ]

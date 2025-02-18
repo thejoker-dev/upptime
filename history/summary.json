@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/networkerd.cl.ico",
     "slug": "networkerd-cl",
     "status": "down",
-    "uptime": "35.80%",
+    "uptime": "35.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 318,
+    "time": 319,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 170,
     "timeYear": 218,
     "dailyMinutesDown": {
-      "2025-02-17": 37,
+      "2025-02-18": 34,
+      "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -379,8 +380,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -395,8 +395,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 478,
-    "timeDay": 272,
-    "timeWeek": 320,
+    "timeDay": 305,
+    "timeWeek": 326,
     "timeMonth": 308,
     "timeYear": 339,
     "dailyMinutesDown": {}
@@ -407,15 +407,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.pollosro.cl.ico",
     "slug": "pollosro-cl",
     "status": "up",
-    "uptime": "94.21%",
+    "uptime": "94.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
     "time": 646,
-    "timeDay": 292,
-    "timeWeek": 338,
-    "timeMonth": 332,
+    "timeDay": 325,
+    "timeWeek": 341,
+    "timeMonth": 331,
     "timeYear": 618,
     "dailyMinutesDown": {
       "2024-12-05": 17,
@@ -437,16 +437,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "maoristore-cl",
     "status": "up",
-    "uptime": "90.29%",
+    "uptime": "90.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
     "uptimeMonth": "99.36%",
-    "uptimeYear": "70.46%",
-    "time": 1393,
-    "timeDay": 2161,
-    "timeWeek": 1668,
-    "timeMonth": 1625,
-    "timeYear": 1601,
+    "uptimeYear": "70.67%",
+    "time": 1485,
+    "timeDay": 1207,
+    "timeWeek": 1685,
+    "timeMonth": 1630,
+    "timeYear": 1617,
     "dailyMinutesDown": {
       "2025-02-13": 21,
       "2025-02-08": 16,
@@ -585,8 +585,7 @@
       "2024-02-23": 1398,
       "2024-02-22": 1416,
       "2024-02-21": 1396,
-      "2024-02-20": 1422,
-      "2024-02-19": 1415
+      "2024-02-20": 1422
     }
   },
   {
@@ -595,16 +594,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/maoristore.cl.ico",
     "slug": "muyvesta-com",
     "status": "up",
-    "uptime": "90.07%",
+    "uptime": "90.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.37%",
-    "uptimeYear": "70.42%",
-    "time": 801,
-    "timeDay": 905,
-    "timeWeek": 765,
-    "timeMonth": 841,
-    "timeYear": 912,
+    "uptimeYear": "70.68%",
+    "time": 803,
+    "timeDay": 817,
+    "timeWeek": 744,
+    "timeMonth": 836,
+    "timeYear": 921,
     "dailyMinutesDown": {
       "2025-02-13": 20,
       "2025-02-08": 15,
@@ -740,8 +739,7 @@
       "2024-02-23": 1398,
       "2024-02-22": 1416,
       "2024-02-21": 1396,
-      "2024-02-20": 1422,
-      "2024-02-19": 1415
+      "2024-02-20": 1422
     }
   },
   {
@@ -750,7 +748,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.technasis.cl.ico",
     "slug": "technasis-cl",
     "status": "down",
-    "uptime": "14.57%",
+    "uptime": "14.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -761,7 +759,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-17": 37,
+      "2025-02-18": 35,
+      "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -1124,8 +1123,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   },
   {
@@ -1134,7 +1132,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/luminbarber.networkerd.cl.ico",
     "slug": "luminbarber-cl",
     "status": "down",
-    "uptime": "38.44%",
+    "uptime": "38.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1145,7 +1143,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-17": 37,
+      "2025-02-18": 35,
+      "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
@@ -1508,8 +1507,7 @@
       "2024-02-23": 1440,
       "2024-02-22": 1440,
       "2024-02-21": 1440,
-      "2024-02-20": 1440,
-      "2024-02-19": 1440
+      "2024-02-20": 1440
     }
   }
 ]
